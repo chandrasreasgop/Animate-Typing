@@ -1,4 +1,4 @@
-# Animate Typing
+# Animate-Typing
 A python script that helps animate any terminal output text as 'Human Typed'
 <br>
 
