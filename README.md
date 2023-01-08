@@ -26,4 +26,4 @@ Download pyfiglet using the following command to avoid crashing the script while
 The following modules from the Python Standard Library has been used:
 - [sys](https://docs.python.org/3/library/sys.html#module-sys)
 - [random](https://docs.python.org/3/library/random.html#module-random)
-- [time]()
+- [time](https://docs.python.org/3/library/time.html)
